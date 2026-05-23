@@ -1,0 +1,6 @@
+title,type,priority,due_date,tags,notes,status
+Diseño de base de datos,tarea,alta,2026-05-20,backend;arquitectura,Definir esquema de tablas principales,pendiente
+Implementar autenticación,tarea,alta,2026-05-21,backend;seguridad,JWT con refresh tokens,en progreso
+Crear wireframes,tarea,media,2026-05-22,diseño;ux,Figma o Balsamiq,pendiente
+Revisar documentación,nota,baja,2026-05-25,docs,Leer README del proyecto anterior,pendiente
+Testing unitario,subtarea,media,2026-05-23,testing;qa,Coverage mínimo 80%,pendiente
